@@ -3,6 +3,9 @@
 ## Description
 An API for a social media app built with Express.js, Mongoose.js and MongoDB.
 
+## Demo Video
+https://watch.screencastify.com/v/wOtomvNdrv2TcSOnKsV4
+
 ## Usage
 - Install and start MongoDB
 - Clone code 
@@ -37,4 +40,4 @@ An API for a social media app built with Express.js, Mongoose.js and MongoDB.
 
 **Reaction**
 - Add a reaction:       `POST /api/thoughts/:id/reactions`
-- Delete a reaction:    `DELETE /api/thoughts/:id/reactions`
+- Delete a reaction:    `DELETE /api/thoughts/:id/reactions/:id`
